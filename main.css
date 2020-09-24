@@ -13,6 +13,9 @@ main > .red{
 
 .red > h1{
     text-align: center;
+    color: blue;
+    line-height: 40px;
+    font-size: 35px;
 }
 .red > p{
     text-align: center;
