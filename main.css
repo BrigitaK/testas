@@ -7,6 +7,10 @@ main > .red{
     float: left;
     background-color: red;
 }
+
+.red > h1{
+    text-align: center;
+}
 .red > p{
     text-align: center;
     text-decoration: underline;
